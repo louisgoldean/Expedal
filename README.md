@@ -1,3 +1,1 @@
-# Expedal
-
-this project is currently still in development and will not be released until it is stable
+A game engine, I'm not sure what this will be
